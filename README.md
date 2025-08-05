@@ -275,17 +275,3 @@ Project Link: [https://github.com/ZahidMiana/Foundry_FundMe](https://github.com/
 ---
 
 ⭐ **Star this repository if it helped you learn Foundry and smart contract development!**
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
